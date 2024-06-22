@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guna8888
-- 👀 I’m interested in python, newtorks and security as well as development. 
+- 👀 I’m interested in python,Java and Xcode,  newtorks and security as well as development. 
 - 🌱 I’m currently learning OS, computersecurity and computer networks. 
 - 💞️ I’m looking to collaborate on operating systems and security projects 
 - 📫 How to reach me...through instagram:- gun0007
